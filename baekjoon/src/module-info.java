@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ажЁГ
+ *
+ */
+module baekjoon {
+}

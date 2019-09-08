@@ -1,0 +1,21 @@
+package while_;
+import java.util.Scanner;
+
+public class problem2 {
+
+	public static void main(String[] args) {
+		Scanner s= new Scanner(System.in);
+		
+		int a,b;
+		
+		while(s.hasNextInt()) {
+			a=s.nextInt();
+			b=s.nextInt();
+			
+			System.out.println(a+b);
+			
+		}
+
+	}
+
+}
